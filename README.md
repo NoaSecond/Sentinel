@@ -6,6 +6,15 @@
 
 Une application web Node.js pour afficher les informations relatives aux serveurs et joueurs de Star Deception.
 
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-NoaSecond%2FSentinel-blue?style=flat-square&logo=github)](https://github.com/NoaSecond/Sentinel)
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
+[![Node.js](https://img.shields.io/badge/Node.js-18+-brightgreen?style=flat-square&logo=node.js)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Express-4.18+-orange?style=flat-square&logo=express)](https://expressjs.com/)
+
+</div>
+
 ## Installation
 
 1. Cloner ou télécharger le projet
