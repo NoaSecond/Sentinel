@@ -49,6 +49,10 @@ L'application sera accessible sur :
 
 ---
 
-## 👨‍💻 Contributeur
+## � Licence
+
+Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
+
+## �👨‍💻 Contributeur
 
 **Développée par [𝕭𝖗𝖚𝖒𝖊](https://noasecond.com)**
