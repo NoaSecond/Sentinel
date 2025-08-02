@@ -7,7 +7,7 @@
 Une application web Node.js pour afficher les informations relatives aux serveurs et joueurs de Star Deception.
 
 <div align="center">
-
+  
 [![GitHub](https://img.shields.io/badge/GitHub-NoaSecond%2FSentinel-blue?style=flat-square&logo=github)](https://github.com/NoaSecond/Sentinel)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 [![Node.js](https://img.shields.io/badge/Node.js-18+-brightgreen?style=flat-square&logo=node.js)](https://nodejs.org/)
@@ -15,37 +15,30 @@ Une application web Node.js pour afficher les informations relatives aux serveur
 
 </div>
 
-## Installation
+## 🚀 Quick Start
 
-1. Cloner ou télécharger le projet
-2. Installer les dépendances :
-   ```bash
-   npm install
-   ```
+### 1. Clone the Repository
+```bash
+git clone https://github.com/NoaSecond/Sentinel.git
+```
 
-## 🚀 Démarrage du serveur
-
-### Se déplacer dans Sentinel :
+### 2. Go in the right folder
 ```bash
 cd ./Sentinel
 ```
 
-### 🎯 Démarrage avec port personnalisé
+### 3. Install dependencies :
+```bash
+npm install
+```
 
-#### Méthode 1 : Argument de ligne de commande (Recommandé)
+### 4. Start the server :
 ```bash
 node server.js --port=8080
 ```
 
-#### Méthode 2 : Variable d'environnement
-```powershell
-# PowerShell
-$env:PORT=8080; node server.js
-```
-
-### 🌐 Accès à l'application
-
-L'application sera accessible sur :
+### 🌐 Access to the application
+The application will be accessible at:
 - http://localhost:[VOTRE_PORT]
 
 ## Technologies utilisées
@@ -58,10 +51,10 @@ L'application sera accessible sur :
 
 ---
 
-## � Licence
+## 📄License
 
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## �👨‍💻 Contributeur
+## 👨‍💻 Contributor
 
-**Développée par [𝕭𝖗𝖚𝖒𝖊](https://noasecond.com)**
+**Sentinel developed by [𝕭𝖗𝖚𝖒𝖊](https://noasecond.com)**
